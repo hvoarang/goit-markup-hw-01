@@ -1,3 +1,2 @@
 # goit-markup-hw-01
-# hvoarang-goit-markup-hw-01
-# goit-markup-hw-01
+# https://hvoarang.github.io/goit-markup-hw-01/
